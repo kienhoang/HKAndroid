@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Giải phương trình</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro">Giải phương trình bậc 2: ax^2 + bx + c = 0</string>
+    <string name="a">a=</string>
+    <string name="b">b=</string>
+    <string name="c">c=</string>
+    <string name="calc">Tính</string>
+    <string name="tv_x1">x1=</string>
+    <string name="tv_x2">x2=</string>
+</resources>

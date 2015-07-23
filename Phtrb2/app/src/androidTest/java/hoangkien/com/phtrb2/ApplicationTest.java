@@ -1,4 +1,4 @@
-package hoangkien.edu.ptb2;
+package hoangkien.com.phtrb2;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
